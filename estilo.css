@@ -1,0 +1,27 @@
+body {
+background: linear-gradient(lightgreen, green); /* Standard syntax */
+
+}
+
+
+h1{
+	font-family:verdana;
+	color: black;
+}
+
+h2{
+	font-family:verdana;
+	
+}
+
+p{
+	font-family:verdana;
+	font-size: 20px;
+}
+
+li{
+	font-family:verdana;
+	font-size: 20px;
+}
+
+}
